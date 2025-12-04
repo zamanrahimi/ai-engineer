@@ -23,15 +23,16 @@ Foundation models are “general-purpose intelligent systems” that can be adap
 
 ## top 10 foundation models
 
-| #  | Foundation Model | Origin / Company | Highlights / Why It’s Top |
-|----|------------------|------------------|----------------------------|
-| 1  | **GPT‑4** | OpenAI (USA) | Leading multimodal LLM globally; strong in text, reasoning, code, and multimodal tasks. |
-| 2  | **DeepSeek‑R1 / DeepSeek‑V3** | DeepSeek (China) | Open‑source, highly capable reasoning & general‑purpose models; strong math, coding, and reasoning benchmarks, supports multilingual usage. :contentReference[oaicite:1]{index=1} |
-| 3  | **Qwen series** | Alibaba (China) | Chinese/English LLM family; strong benchmark performance and wide usage in China/Asia. |
-| 4  | **ChatGLM / GLM‑130B** | Zhipu AI (China) | Bilingual (Chinese/English) models with open‑weight releases; used for conversation, reasoning, and custom tasks. |
-| 5  | **Wu Dao 2.0** | BAAI / Chinese institutions (China) | Multimodal model supporting text and image generation/understanding; broad foundation‑model capabilities. |
-| 6  | **LLaMA (and its variants)** | Meta (USA) | Open‑source or partly open; popular base for fine‑tuning, research, and custom deployments. |
-| 7  | **PaLM / Gemini** | Google DeepMind (USA / Global) | Multimodal, multilingual; excels in reasoning, translation, and general-purpose tasks across languages. |
-| 8  | **Stable Diffusion** | Stability AI (Global/International) | Leading text‑to‑image foundation‑model; widely used in creative, design, and media generation tasks. |
-| 9  | **CLIP** | OpenAI / Research community (Global) | Bridges vision and language — strong multimodal backbone used for image understanding, captioning, and cross-modal tasks. |
-| 10 | **Other global & open‑source multi‑purpose LLMs** | Various (Global) | Includes lighter‑weight or specialized foundation models — useful for customization, efficiency, multilingual support, or resource‑constrained deployments. |
+| #  | Foundation Model | Origin / Company | Highlights |
+|----|-----------------|-----------------|------------|
+| 1  | **GPT‑4** | OpenAI (USA) | Multimodal LLM; strong text, reasoning, and coding. |
+| 2  | **DeepSeek‑R1 / V3** | DeepSeek (China) | Open-source; excels in reasoning, coding, multilingual tasks. |
+| 3  | **PaLM / Gemini** | Google DeepMind (USA) | Multimodal, multilingual; general-purpose tasks. |
+| 4  | **Claude 3** | Anthropic (USA) | Safe, reliable reasoning; enterprise-ready. |
+| 5  | **Qwen series** | Alibaba (China) | Chinese/English LLM; strong benchmarks. |
+| 6  | **Baichuan 13B / 4** | Baichuan (China) | Open-source; Chinese-focused, multilingual NLP. |
+| 7  | **ChatGLM / GLM-130B** | Zhipu AI (China) | Bilingual; good for conversation and reasoning. |
+| 8  | **Wu Dao 2.0** | BAAI (China) | Multimodal; text and image understanding. |
+| 9  | **LLaMA 2 / 3** | Meta (USA) | Open-source; research and fine-tuning. |
+| 10 | **Stable Diffusion** | Stability AI (Global) | Text-to-image generation; widely used in creative tasks. |
+
