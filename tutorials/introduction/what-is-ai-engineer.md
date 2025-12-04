@@ -17,7 +17,7 @@ They create things like:
 
 ## What even is an AI Engineer?
 Not a Data Scientist. Not an ML Engineer.
-AI Engineers build applications on top of foundation models. GPT, Llama, Claude - you're not creating them. You're making them useful for businesses.
+AI Engineers build applications on top of foundation models such as GPT, Llama, Claude, AWS,GCP and Azure foundation models - you're not creating them. You're making them useful for businesses.
 
 > The skills breakdown:
 Start here: → Python—production-level, not "I know loops" → Git, APIs, command line → Understand embeddings, vectors, tokens
