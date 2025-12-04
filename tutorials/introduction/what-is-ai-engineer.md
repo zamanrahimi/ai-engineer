@@ -19,12 +19,12 @@ They create things like:
 Not a Data Scientist. Not an ML Engineer.
 AI Engineers build applications on top of foundation models. GPT, Llama, Claude - you're not creating them. You're making them useful for businesses.
 
-### The skills breakdown:
+> The skills breakdown:
 Start here: → Python—production-level, not "I know loops" → Git, APIs, command line → Understand embeddings, vectors, tokens
 
-### Then build these: → Prompt engineering—systematic, not guessing → RAG (Retrieval Augmented Generation)—80% of enterprise AI work → AI APIs (OpenAI, Anthropic, open-source) → AI Agents—orchestrating models to complete tasks → Deployment—Docker, cloud basics
+> Then build these: → Prompt engineering—systematic, not guessing → RAG (Retrieval Augmented Generation)—80% of enterprise AI work → AI APIs (OpenAI, Anthropic, open-source) → AI Agents—orchestrating models to complete tasks → Deployment—Docker, cloud basics
 
-### What separates good from great: → Advanced RAG—chunking, re-ranking, hybrid search → Fine-tuning with LoRA → Knowing WHEN to use which model and WHY → Security—PII handling, reducing hallucinations
+> What separates good from great: → Advanced RAG—chunking, re-ranking, hybrid search → Fine-tuning with LoRA → Knowing WHEN to use which model and WHY → Security—PII handling, reducing hallucinations
 
 AI Engineers don’t just train models — they make sure the AI actually works in **real applications**.
 
@@ -32,7 +32,7 @@ AI Engineers don’t just train models — they make sure the AI actually works 
 
 ---
 
-## AI Engineer vs. Data Scientist vs. ML Engineer
+### AI Engineer vs. Data Scientist vs. ML Engineer
 
 
 | Role               | What They Mainly Do                                           | U.S. Market Wants Most                     |
