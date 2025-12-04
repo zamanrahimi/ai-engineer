@@ -1,4 +1,4 @@
-# 🔹 From Language Models to Large Language Models
+## 🔹 From Language Models to Large Language Models
 
 Language Models (LMs) started as small models trained to predict the next word.
 
