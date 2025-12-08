@@ -1,29 +1,65 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
+###################################
+# Global ignores
+###################################
+*.log
+*.env
+*.env.* 
+.DS_Store
+Thumbs.db
 
-# Virtual Environment
+###################################
+# Virtual Environment (root-level)
+###################################
 venv/
-env/
-ENV/
+.env/
+.venv/
 
-# Distribution / packaging
-dist/
-build/
-*.egg-info/
+###################################
+# Backend (Python)
+###################################
+**/__pycache__/
+backend/**/*.pyc
+backend/**/*.pyo
+backend/**/*.pyd
+backend/.mypy_cache/
+backend/.pytest_cache/
+backend/.ruff_cache
+backend/.ipynb_checkpoints/
 
-# IDE specific files
-.idea/
+# Python build artifacts
+backend/build/
+backend/dist/
+backend/*.egg-info/
+
+###################################
+# Frontend (React)
+###################################
+frontend/node_modules/
+frontend/.npm/
+frontend/.yarn/
+
+# Production build
+frontend/build/
+frontend/dist/
+
+# Debug logs
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# React environment files
+frontend/.env
+frontend/.env.* 
+
+###################################
+# Editor folders
+###################################
 .vscode/
+.idea/
+
+###################################
+# OS-specific
+###################################
+.DS_Store
 *.swp
 *.swo
-
-# Environment variables
-.env
-
-# Logs
-*.log
-
-# Local development settings
-.DS_Store 
