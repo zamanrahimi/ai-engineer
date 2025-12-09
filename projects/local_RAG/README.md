@@ -1,5 +1,7 @@
 # installation 
 
+- clone the project with: 
+- ` git clone https://github.com/zamanrahimi/ai-engineer.git`
 
 ## Backend 
 
