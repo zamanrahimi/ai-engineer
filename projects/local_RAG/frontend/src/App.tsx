@@ -13,7 +13,7 @@ const App: React.FC = () => {
     setMessages((prev) => [...prev, userMessage]);
 
     try {
-      const response = await axios.post("http://127.0.0.1:8000/chat", { message: text });
+      const response = await axios.post("http://127.0.0.1:8001/chat", { message: text });
       const botMessage: Message = { sender: "bot", text: response.data.reply };
       setMessages((prev) => [...prev, botMessage]);
     } catch (err) {
